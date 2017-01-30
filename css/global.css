@@ -1,6 +1,9 @@
 body {
     background: #DDEDAA;
-    color: #fff;
+    color: #131515;
     text-align: center;
+    animation-delay: 1.2s;
+    background-clip: padding-box;
+    background-image: url(/img/background.png);
     
 }
